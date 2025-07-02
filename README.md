@@ -17,6 +17,8 @@
  
    src/               
     main.py          ← Code source principal
+
+    
    run.sh           ← Script d’exécution
 
 
