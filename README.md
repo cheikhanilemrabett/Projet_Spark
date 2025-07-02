@@ -12,8 +12,10 @@
 
  # Architecture du Projet
  spark_friends_project/
- data/
-  friends.txt      ← Données des relations d’amitié
+
+ 
+   data/
+     friends.txt      ← Données des relations d’amitié
  
    src/               
     main.py          ← Code source principal
