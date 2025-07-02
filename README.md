@@ -13,10 +13,11 @@
  # Architecture du Projet
  spark_friends_project/
  data/
- friends.txt      ← Données des relations d’amitié
- src/               
- main.py          ← Code source principal
- run.sh           ← Script d’exécution
+  friends.txt      ← Données des relations d’amitié
+ 
+   src/               
+    main.py          ← Code source principal
+   run.sh           ← Script d’exécution
 
 
 
