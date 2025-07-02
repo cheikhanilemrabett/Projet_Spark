@@ -1,5 +1,4 @@
-#  Développer une solution distribuée pour identifier les amis communs entre utilisateurs d’un
-# réseau social en utilisant Apache Spark et PySpark.
+#  Développer une solution distribuée pour identifier les amis communs entre utilisateurs d’un réseau social en utilisant Apache Spark et PySpark.
 # Contxte:
    ✓  L’analyse des réseaux sociaux est devenue cruciale dans le monde numérique actuel. Ce
   ✓ projet vise à explorer les relations d’amitié dans un graphe social et à identifier efficacement
